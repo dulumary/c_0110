@@ -1,5 +1,16 @@
 # 과제
 
+## Day 4 (2021-01-31)
+
+### github site 문제
+* [4 ~ 5](../03_Condition/test/test02/README.md)
+* [1 ~ 2](../03_Condition/test/test05/README.md)
+
+### codeup
+
+* if, 논리 연산자
+	* [1067](https://codeup.kr/problem.php?id=1067), [1151](https://codeup.kr/problem.php?id=1151), [1154](https://codeup.kr/problem.php?id=1154), [1156](https://codeup.kr/problem.php?id=1156), [1160](https://codeup.kr/problem.php?id=1160), [1170](https://codeup.kr/problem.php?id=1170), [1201](https://codeup.kr/problem.php?id=1201)
+
 ## Day 3 (2020-01-24)
 
 ### github site 문제
