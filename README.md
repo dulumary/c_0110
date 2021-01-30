@@ -12,21 +12,20 @@
 ### [예제 보기](02_Variable/ex)
 ### [연습 문제](02_Variable/test/README.md)
 
-##  3. 함수   
-### [강의 자료](03_Function/README.md) 
-### [예제 보기](03_Function/ex)
-### [연습 문제](03_Function/test/README.md) 
+##  3. 조건문  
+### [강의 자료](03_Condition/README.md) 
+### [예제 보기](03_Condition/ex)
+### [연습 문제](03_Condition/test/README.md)  
 
-##  4. 조건문  
-### [강의 자료](04_Condition/README.md) 
-### [예제 보기](04_Condition/ex)
-### [연습 문제](04_Condition/test/README.md)  
+##  4. 반복문  
+### [강의 자료](04_Loop/README.md) 
+### [예제 보기](04_Loop/ex)
+### [연습 문제](04_Loop/test/README.md)  
 
-##  5. 반복문  
-### [강의 자료](05_Loop/README.md) 
-### [예제 보기](05_Loop/ex)
-### [연습 문제](05_Loop/test/README.md)  
-
+##  5. 함수   
+### [강의 자료](05_Function/README.md) 
+### [예제 보기](05_Function/ex)
+### [연습 문제](05_Function/test/README.md) 
 
 ##  6. 중첩 반복문
 ### [강의 자료](06_NestedLoop/README.md) 
