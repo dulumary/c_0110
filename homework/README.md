@@ -3,10 +3,10 @@
 ## Day 5 (2021-02-07)
 
 ### github site 문제
-* [1 - 5](../04_Condition/test/test05/README.md)
-* [4](../04_Condition/test/test06/README.md)
+* [1 - 5](../03_Condition/test/test05/README.md)
+* [4](../03_Condition/test/test06/README.md)
 
-* [1 - 3](../04_Condition/test/test06/README.md) - (option)
+* [1 - 3](../03_Condition/test/test06/README.md) - (option)
 
 ### codeup
 
